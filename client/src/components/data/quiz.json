@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "One of the bulls .... from the herd",
+      "choices": ["have been strayed", "has been strayed", "have strayed", "has strayed"],
+      "answer": "has strayed"
+    },
+    {
+      "question": "I saw the dog...out of the house",
+      "choices": ["run", "is running", "ran", "was running"],
+      "answer": "run"
+    },
+    {
+      "question": "Habib goes to school...train.",
+      "choices": ["by", "on", "with", "in"],
+      "answer": "by"
+    },
+    {
+      "question": "This phone is not mine; it is...",
+      "choices": ["mine uncle's", "my uncle's", "my uncles", "Subotica"],
+      "answer": "my uncle's"
+    },
+    {
+      "question": "Their sister wore a...dress to the party",
+      "choices": ["silk blue beautiful", "beautiful blue silk", "blue beautiful silk", "beautiful silk blue"],
+      "answer": "beautiful silk blue"
+    },
+    {
+      "question": " I wish I ….. my friend next week",
+      "choices": ["can visit", "am visiting", "shall visit", " could visit"],
+      "answer": "could visit"
+    },
+    {
+      "question": "Aba took ….. her mother in many ways.",
+      "choices": ["after", "up", "on", "by"],
+      "answer": "after"
+    },
+    {
+      "question": "That girls is allergic ….. dust.",
+      "choices": ["with", "to", "against", "about"],
+      "answer": "to"
+    },
+    {
+      "question": "It is high time we …… for the meeting.",
+      "choices": ["left", "leave", "have to leave", "will leave"],
+      "answer": "left"
+    },
+    {
+      "question": "The accused person refused to appear before the ….. panel.",
+      "choices": ["five-man’s", "five-man", "five-men", "five-mens"],
+      "answer": "five-man"
+    },
+    {
+      "question": "The stories her children told her made her ……",
+      "choices": ["to laugh", " laughing", " laughed", "laugh"],
+      "answer": "laugh"
+    },
+    {
+      "question": "They have not bought …… of the two prescribed books.",
+      "choices": ["neither", " either", "none", "all"],
+      "answer": "either"
+    }
+  ]
+}
